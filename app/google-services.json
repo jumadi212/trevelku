@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808818794597",
+    "firebase_url": "https://jumadi-fc944.firebaseio.com",
+    "project_id": "jumadi-fc944",
+    "storage_bucket": "jumadi-fc944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808818794597:android:0562dff95d1a6d0074668c",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.jumadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808818794597-dedo4mqug70j53ut2d5sa8e97mu3pjl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.jumadi",
+            "certificate_hash": "03ea76bc01ff7cd2f35c7f4c5f0c448eeba7baae"
+          }
+        },
+        {
+          "client_id": "808818794597-g0urnkabr808lsh6e3s4p0d55780f4al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkE-ZiejGBfzE8c5WvBXETpWghEdNt3rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808818794597-g0urnkabr808lsh6e3s4p0d55780f4al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
